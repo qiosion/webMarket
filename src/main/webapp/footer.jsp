@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>푸터</title>
 </head>
 <body>
 	<footer class="container">
